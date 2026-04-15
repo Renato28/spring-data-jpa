@@ -1,4 +1,4 @@
-package br.com.github.renato28.springdatajpa;
+package br.com.github.renato28.springdatajpa.repositories;
 
 import br.com.github.renato28.springdatajpa.models.BookModel;
 import org.springframework.data.jpa.repository.JpaRepository;
